@@ -35,9 +35,6 @@ I'm a full-stack developer with expertise in MERN stack and machine learning. I'
 - Created visualization dashboards for insights
 - Built predictive models with high accuracy in identifying potential churners
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jckyc38&show_icons=true&theme=radical)
 
 ## 🌟 Featured Skills
 - RESTful API Design
