@@ -51,7 +51,6 @@ I'm a full-stack developer with expertise in MERN stack and machine learning. I'
 - Deep Learning with PyTorch
 ## 🌟 Featured Skills
 - RESTful API Design
-- Database Architecture
 - UI/UX Development
 - Data Analysis
 - Deep Learning
